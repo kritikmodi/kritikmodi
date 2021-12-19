@@ -5,6 +5,8 @@
 I'm a full stack Android Developer. I'm currently looking for opportunities in cloud-native architecture and backend development! :wink:
  
  💬 Ask me about Android and Web Development, Cloud-native applications and basically any software development based concept!
+ 
+ (I'm working on this README.md file, please don't mind if it feels incomplete!)
 
 
 ![Profile views](https://gpvc.arturio.dev/kritikmodi)  <img src="https://img.shields.io/github/followers/kritikmodi?label=Follow" style=" float:left, margin-right:10px" />

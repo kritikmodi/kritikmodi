@@ -2,7 +2,7 @@
 
 ---
 
-I like innovate and code. I'm currently learning Data Structures and Algorithms alongside working on projects based around Deep Learning, NLP and backend development! :wink:
+I like to innovate and code. I'm currently learning Data Structures and Algorithms alongside working on projects based around Deep Learning, NLP and backend development! :wink:
  
  💬 Ask me about Android and Web Development, Machine Learning, Cloud-Native development and basically any software development based concept!
 

@@ -17,7 +17,7 @@ I like to innovate and code. I'm currently learning Data Structures and Algorith
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kritikmodi&show_icons=true&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikmodi&" alt="kritikmodi" /></p>
 
 ---
 

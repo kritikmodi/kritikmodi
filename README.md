@@ -21,20 +21,24 @@ I like to innovate and code. I'm currently learning Data Structures and Algorith
 
 <details>
   <summary>Random Dev Joke :</summary>
+  <br/>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
 </details>
 
 <details>
   <summary>Connect with me :</summary>
+  <br/>
   <p gap="2" align="left">
   <a href="https://www.linkedin.com/in/kritik-modi-2b5415162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritikmodi" height="30" width="40" /></a>
   <a href="https://twitter.com/muchWowLessOww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kritikmodi" height="30" width="40" /></a>
   <a href="https://instagram.com/kritikmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kritikmodi" height="30" width="40" /></a>
   </p>
+  <br/>
 </details>
 
 <details>
  <summary aria-label="stats">GitHub Stats :</summary>
+ <br/>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikmodi&show_icons=true&locale=en" alt="kritikmodi" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikmodi&show_icons=true&locale=en&layout=compact" alt="kritikmodi" /></p>
 </details>

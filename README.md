@@ -1,5 +1,7 @@
 ### Hey there! I'm Kritik!👋
 
+![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
+
 ---
 
 I like to innovate and code. I'm currently learning Data Structures and Algorithms alongside working on projects based around Deep Learning, NLP and Web Development! :wink:

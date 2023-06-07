@@ -17,8 +17,6 @@ I like to innovate and code. I'm currently learning Data Structures and Algorith
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikmodi&" alt="kritikmodi" /></p>
-
 <details>
   <summary>Random Dev Joke :</summary>
   <br/>

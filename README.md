@@ -6,7 +6,7 @@ I like to innovate and code. I'm currently learning Data Structures and Algorith
  
  💬 Ask me about Android and Web Development, Machine Learning, Cloud-Native development and other topics in and around software development!
 
-![Profile views](https://gpvc.arturio.dev/kritikmodi)  <img src="https://img.shields.io/github/followers/kritikmodi?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=kritikmodi)   <img src="https://img.shields.io/github/followers/kritikmodi?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 

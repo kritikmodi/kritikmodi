@@ -2,7 +2,7 @@
 ![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
 ---
 
-I like to innovate and code. I'm like to do Competitive Programming alongside working on projects based around Linux, Cloud and Machine Learning ! :wink:
+I like to innovate and code. I like to do Competitive Programming alongside working on projects based around Linux, Cloud and Machine Learning ! :wink:
  
  💬 Ask me about Data Structures and Algorithms, Linux, Android and Web Development, Machine Learning, Cloud-Native development and other topics in and around software development!
 

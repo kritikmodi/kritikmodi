@@ -1,4 +1,4 @@
-### Hey there! I'm Kritik!👋
+### Hey there, I'm Kritik ! 👋
 ![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
 ---
 

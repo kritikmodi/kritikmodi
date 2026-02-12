@@ -5,13 +5,6 @@
 
 I enjoy building scalable systems, solving algorithmic problems, and working close to the Linux & Cloud-native ecosystems. A majority of my work revolves around backend systems, distributed computing, DevOps, and Gen AI solutions.
 
-💬 Ask me about:
-- Backend & Systems Design
-- Linux Internals
-- Cloud & DevOps
-- AI & Machine Learning
-- Competitive Programming
-
 ![Profile views](https://komarev.com/ghpvc/?username=kritikmodi)
 <img src="https://img.shields.io/github/followers/kritikmodi?label=Follow" />
 

@@ -1,6 +1,6 @@
 # Kritik Modi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E676&vCenter=true&width=700&lines=%24+whoami;%3E+backend+%26+infrastructure+engineer;%24+cat+focus.txt;%3E+distributed+systems+%C2%B7+dev+tools+%C2%B7+platform+infra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E676&vCenter=true&width=700&lines=%24+whoami;%3E+backend+%26+infra+engineer;%24+cat+focus.txt;%3E+distributed+systems+%C2%B7+dev+tools+%C2%B7+platform+infra" />
 
 ### `~/experience`
 
@@ -14,7 +14,9 @@
 
 `~/contact`
 
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kritikmodi.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikmodi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikmodi)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/muchwowlessoww)
 
 Open to backend, systems, and AI infrastructure work.

@@ -1,6 +1,6 @@
 # Kritik Modi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E676&vCenter=true&width=700&lines=%24+whoami;%3E+backend+%26+infrastructure+engineer;%24+cat+focus.txt;%3E+distributed+systems+%C2%B7+developer+tooling+%C2%B7+platform+infra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E676&vCenter=true&width=700&lines=%24+whoami;%3E+backend+%26+infrastructure+engineer;%24+cat+focus.txt;%3E+distributed+systems+%C2%B7+dev+tools+%C2%B7+platform+infra" />
 
 ### `~/experience`
 
@@ -12,4 +12,9 @@
 
 ---
 
-Open to backend, systems, and AI infra work : [kritikmodi@gmail.com](mailto:kritikmodi@gmail.com) · [linkedin.com/in/kritikmodi](https://linkedin.com/in/kritikmodi)
+`~/contact`
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikmodi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikmodi)
+
+Open to backend, systems, and AI infrastructure work.

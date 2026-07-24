@@ -1,88 +1,15 @@
-### Hey there, I'm Kritik! 👋  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+# Kritik Modi
 
-🚀 Backend & Infra Engineer | Competitive Programmer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E676&vCenter=true&width=700&lines=%24+whoami;%3E+backend+%26+infrastructure+engineer;%24+cat+focus.txt;%3E+distributed+systems+%C2%B7+developer+tooling+%C2%B7+platform+infra" />
 
-I enjoy building scalable systems, solving algorithmic problems, and working close to the Linux & Cloud-native ecosystems. A majority of my work revolves around backend systems, distributed computing, DevOps, and Gen AI solutions.
+### `~/experience`
 
-![Profile views](https://komarev.com/ghpvc/?username=kritikmodi)
-<img src="https://img.shields.io/github/followers/kritikmodi?label=Follow" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=58A6FF&vCenter=true&width=760&lines=%24+kubectl+get+systems+--all-namespaces;%E2%9C%93+distributed+services+%E2%80%94+consistency%2C+backpressure%2C+horizontal+scale;%E2%9C%93+infra+%E2%80%94+kubernetes%2C+nomad%2C+terraform%2C+zero-downtime+deploys;%E2%9C%93+data+%E2%80%94+postgres%2C+snowflake%2C+bigquery%2C+trino;%E2%9C%93+observability+%E2%80%94+prometheus%2C+grafana%2C+SLO-driven+alerting;%E2%9C%93+genai+%E2%80%94+retrieval+pipelines%2C+eval+harnesses%2C+model+APIs" />
 
----
+### `~/stack`
 
-## 🧠 Core Expertise
-
-- 🐧 Linux Systems & Shell
-- ☁️ Cloud-Native Development
-- 🔁 Distributed Systems
-- 🤖 Applied Machine Learning
-- 📦 Containerization & DevOps
-- ⚡ Competitive Programming
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=700&color=FFB86C&vCenter=true&width=760&lines=%24+ls+~%2Fstack;languages+%E2%86%92+java+%C2%B7+python+%C2%B7+c%2B%2B+%C2%B7+sql+%C2%B7+bash;cloud+%E2%86%92+aws+%C2%B7+gcp+%C2%B7+azure+%C2%B7+terraform;orchestration+%E2%86%92+kubernetes+%C2%B7+nomad+%C2%B7+docker;data+%E2%86%92+postgres+%C2%B7+snowflake+%C2%B7+bigquery+%C2%B7+trino;observability+%E2%86%92+prometheus+%C2%B7+grafana+%C2%B7+statsd" />
 
 ---
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-659ad2?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Nomad](https://img.shields.io/badge/-Nomad-00CA8E?style=flat&logo=nomad&logoColor=white)
-
----
-
-### 🐧 Systems & DevOps
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
-
----
-
-### 🔄 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
----
-
-### 🗄 Databases & Query Engines
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Trino](https://img.shields.io/badge/-Trino-DD00A1?style=flat&logo=trino&logoColor=white)
-
----
-
-### 🌐 Backend & Tools
-![REST](https://img.shields.io/badge/-REST-005571?style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white)
-
----
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![StatsD](https://img.shields.io/badge/-StatsD-2C2C2C?style=flat)
-![Statsite](https://img.shields.io/badge/-Statsite-1E1E1E?style=flat)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
----
-
-⭐ Always open to collaboration on interesting backend, systems, or AI-driven projects!
+Open to backend, systems, and AI infra work : [kritikmodi@gmail.com](mailto:kritikmodi@gmail.com) · [linkedin.com/in/kritikmodi](https://linkedin.com/in/kritikmodi)

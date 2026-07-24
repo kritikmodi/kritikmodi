@@ -19,4 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikmodi)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/muchwowlessoww)
 
-Open to backend, systems, and AI infrastructure work.
+Open to backend, systems, and AI infra work.
